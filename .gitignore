@@ -1,0 +1,74 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+*/build/
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Kotlin compiler caches
+.kotlin/
+.kotlin-daemon/
+
+# Local configuration file (contains Android SDK paths, API keys, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Environment and Secret Files
+.env
+.env.*
+key.properties
+signing.properties
+keystore.properties
+*.jks
+*.keystore
+*.key
+*.pem
+*.p12
+
+# Cloud / Firebase credentials
+google-services.json
+*-service-account*.json
+firebase-adminsdk*.json
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CMake / Native
+CMakeFiles/
+CMakeCache.txt

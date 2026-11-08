@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DK FOCUS GUARD</string>
+    
+    <!-- Navigation Items -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_protection">Protection</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_statistics">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- General -->
+    <string name="tagline">Personal Digital Discipline &amp; Focus Defense</string>
+    <string name="status_protected">PROTECTION ACTIVE</string>
+    <string name="status_unprotected">PROTECTION PAUSED</string>
+
+    <!-- Accessibility Service (Phase 5) -->
+    <string name="accessibility_service_label">DK Focus Guard Detection Engine</string>
+    <string name="accessibility_service_description">Monitors allowlisted applications (YouTube, Instagram) to detect distracting short-form video sections. Never collects passwords, personal messages, or private data.</string>
+</resources>
+
